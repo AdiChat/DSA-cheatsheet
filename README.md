@@ -64,3 +64,6 @@ Must read:
 * Ronald L. Rivest
 * Robert Sedgewick
 * Jeff Erickson
+* Erik Demaine
+* David Eppstein
+
